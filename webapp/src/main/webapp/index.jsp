@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou,...:  dockerhub:: : Happy Learning --- update 1 docker  </h1>
+   <h1> Thankyou,...:  dockerhub:: : Happy Learning --- cicd  complete on docker   </h1>
 
   
 </form>
